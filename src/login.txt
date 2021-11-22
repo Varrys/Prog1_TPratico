@@ -1,0 +1,10 @@
+teste;teste;123;1;
+rob;rob;123;2;
+qwe;qaz;123;1;
+qaz;qaz;123;2;
+joao;joao pimpao;123;2;
+maria;joaquina;12345;1;
+1roberto;roberto;123;1;
+brukas;brukas;1234;1;
+ola;ola;123;2;
+guizao;guizao;123;2;

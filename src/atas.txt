@@ -1,0 +1,4 @@
+3;10/12/2020;perre;estava um lindo dia de neve!;maria;0;joao;0;brukas;0;assinatura;
+4;12/12/1800;perre;Estava um lindo dia de sol;joao;1;brukas;1;maria;1;concluido;
+6;10/12/1900;perre;estava um lindo dia de neve!;maria;0;joao;0;brukas;0;assinatura;
+7;21/2/2011;nogueira;ja nao tenho fome;guizao;0;brukas;1;maria;1;assinatura;
